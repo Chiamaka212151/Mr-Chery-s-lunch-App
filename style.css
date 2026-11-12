@@ -17,3 +17,49 @@
   letter-spacing: 1px;
   margin-top: 5px;
 }
+/* NAVIGATION SECTION STYLES */
+.nav-section {
+  background-color: #d8c3b4;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.nav-section h2 {
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+}
+.nav-cards {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.nav-card {
+  width: 220px;
+  text-align: left;
+}
+
+.nav-card h3 {
+  margin-bottom: 8px;
+}
+.nav-card p {
+  font-size: 0.9rem;
+  margin-bottom: 20px;
+  min-height: 40px;
+}
+
+/* ROUNDED TAN ORDER BUTTONS */
+.order-btn {
+  display: inline-block;
+  background-color: #c9a788;
+  color: #000000;
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 10px 18px;
+  border-radius: 20px;
+}
+.order-btn:hover {
+  background-color: #b59171;
+}
