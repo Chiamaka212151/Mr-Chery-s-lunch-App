@@ -1,0 +1,19 @@
+/* HEADER STYLES */
+.main-header {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  text-align: center;
+  padding: 30px 10px;
+}
+
+.main-header h1 {
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+.main-header p {
+  font-size: 1rem;
+  letter-spacing: 1px;
+  margin-top: 5px;
+}
